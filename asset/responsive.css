@@ -1,0 +1,425 @@
+@media only screen and (max-width: 1680px) {
+    .hero-section .view-button>a {
+
+        padding: 18px 28px;
+        font-size: 1.5em;
+    }
+
+    .about-me .skill-section .svg>svg {
+        height: 200px;
+    }
+
+    .about-me .dynamic>i {
+        font-size: 50px;
+        top: 70px;
+    }
+
+    .about-me .skill-section .svg>h1 {
+        font-size: 30px;
+
+    }
+
+    .about-me .skill-section .svg>p {
+
+        font-size: 22px;
+
+    }
+
+    .skill .skill-lebel {
+        margin-left: 35px;
+    }
+
+    .skill .skill-lebel .progress>p {
+        font-size: 18px;
+        padding: 12px 15px;
+    }
+
+    .middel {
+        width: 70%;
+
+    }
+
+    .skill .me .image>img {
+        height: 280px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1600px) {
+    .nav-bar .contant>ul>li>a {
+        font-size: 22px;
+    }
+
+    .middel {
+        width: 70%;
+
+    }
+
+    .skill .skill-lebel .progress>p {
+        font-size: 18px;
+
+    }
+}
+
+
+
+@media only screen and (max-width: 1440px) {
+    .hero-section .name>h1 {
+
+        font-size: 50px;
+    }
+
+    .hero-section .view-button>a {
+        padding: 15px 25px;
+        font-size: 1.3em;
+    }
+
+    .middel {
+        width: 80%;
+
+    }
+
+    .nav-bar .contant>ul>li>a {
+
+        font-size: 22px;
+
+    }
+}
+
+@media only screen and (max-width: 1366px) {}
+
+@media only screen and (max-width: 1360px) {
+    .intro>h1 {
+        font-size: 50px;
+
+    }
+
+    .skill .me .about>h1 {
+        font-size: 36px;
+
+    }
+
+    .skill .me .about>p {
+        font-size: 21px;
+
+    }
+
+    .skill .skill-lebel .progress {
+
+        height: 45px;
+
+    }
+
+    .skill .skill-lebel .progress>p {
+        height: 45px;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    .middel {
+        width: 88%;
+    }
+
+    .skill .me .image>img {
+        height: 250px;
+        width: 280px;
+    }
+
+    .intro>h1::after {
+        height: 4px;
+
+    }
+}
+
+@media only screen and (max-width: 1080px) {
+    .hero-section .name>h1 {
+        font-size: 42px;
+    }
+
+    .hero-section .view-button {
+        margin-top: 40px;
+    }
+
+    .hero-section .view-button>a {
+        font-size: 1.1em;
+    }
+
+    .middel {
+        width: 95%;
+    }
+
+    .nav-bar .contant>ul>li>a {
+        font-size: 20px;
+    }
+
+
+    .about-me .dynamic>i {
+
+        font-size: 43px;
+
+    }
+
+    .about-me .skill-section .svg>svg {
+
+        height: 185px;
+
+    }
+
+    .about-me .skill-section .svg>h1 {
+
+        font-size: 27px;
+
+    }
+
+    .about-me .skill-section .svg>p {
+
+        font-size: 20px;
+
+    }
+
+    .skill .skill-lebel .progress>p {
+
+        font-size: 18px;
+        border-radius: 0 0 0 0;
+    }
+
+    .project .main-project {
+
+
+        justify-content: center;
+
+        flex-wrap: wrap;
+
+    }
+
+    .project .main-project .pro {
+
+
+        width: 40%;
+
+
+    }
+
+    .project .nav>ul>li {
+
+        padding: 10px 60px;
+
+    }
+
+    .project .nav>ul>li>a {
+        font-size: 19px;
+
+    }
+
+    .blog-section .all-post {
+
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+
+    .blog-section .post {
+
+        width: 40%;
+    }
+
+    .blog-section .post>img {
+
+        width: 350px;
+        height: 175px;
+
+    }
+
+    .contact .form .main-form>form {
+
+        width: 470px;
+
+
+    }
+
+    .intro>h1 {
+        font-size: 45px;
+
+    }
+
+    .intro>h1::after {
+
+        height: 3px;
+
+    }
+
+    .contact .form .intro>h1::after {
+
+        height: 3px;
+    }
+
+    .skill .skill-lebel .progress {
+
+        height: 40px;
+        width: 420px;
+
+    }
+
+    .skill .skill-lebel .progress>p {
+
+        height: 40px;
+        font-size: 14px;
+        padding: 12px 25px;
+        width: 130px;
+    }
+
+    .skill .me .about {
+        flex-direction: column;
+
+    }
+
+    .skill .me .about>h1 {
+
+        font-size: 36px;
+        text-align: center;
+
+    }
+
+    .skill .me .about>p {
+
+        font-size: 18px;
+        text-align: center;
+
+    }
+
+    .skill .me .about>h1::after {
+
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 1024px) {}
+
+@media only screen and (max-width: 768px) {
+    .middel {
+
+        width: 98%;
+
+    }
+
+    .about-me .skill-section {
+
+        justify-content: center;
+        flex-wrap: wrap;
+
+    }
+
+    .about-me .skill-section .svg {
+        width: 40%;
+
+    }
+
+    .about-me .dynamic>i {
+
+        font-size: 35px;
+
+    }
+
+    .about-me .skill-section .svg>svg {
+
+        height: 160px;
+
+    }
+
+    .about-me .skill-section .svg>h1 {
+
+        font-size: 23px;
+
+    }
+
+    .about-me .skill-section .svg>p {
+
+        font-size: 16px;
+
+    }
+
+    .skill {
+        display: flex;
+
+        flex-direction: column;
+
+        align-items: center;
+    }
+    .skill .me .about > h1 {
+        font-weight: 900;
+    
+    }
+    .
+ .skill .me .about > p {
+
+    font-size: 0.9em;
+    text-align: center;
+
+}
+.skill .me {
+
+    width: 93%;
+    
+
+}
+.skill .skill-lebel {
+
+    margin: 35px 0 0 0;
+    width: 75%;
+}
+.skill .skill-lebel .progress {
+
+    height: 28px;
+    width: 542px;
+    margin: 15px 0px;
+    border-radius: 5px;
+}
+.skill .skill-lebel .progress > p {
+
+    height: 28px;
+   
+    padding: 3px 25px;
+    
+
+}
+.project .nav > ul > li {
+
+    padding: 10px 45px;
+
+}
+.project .main-project .pro {
+
+    width: 50%;
+
+}
+
+.blog-section .post {
+
+    width: 60%;
+
+}
+.blog-section .post > img {
+
+    width: 415px;
+    height: 200px;
+
+}
+.fotter .social > a {
+    margin: 8px;
+
+
+}
+.fotter .social > a > i {
+
+
+    padding: 10px;
+
+
+}
+}
+@media only screen and (max-width: 720px) {
+.fotter .social > a > i {
+    padding: 10px;
+}
+}
